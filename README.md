@@ -1,6 +1,5 @@
-# vue-cli
 
-> A Vue.js project - Quote Collector
+# A Vue.js project - Quote Collector
 
 ## Build Setup
 
